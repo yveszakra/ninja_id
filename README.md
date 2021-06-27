@@ -1,6 +1,7 @@
 # ninja_id
 
-A new Flutter application.
+Practice building app in Flutter using Dart language.
+This app simply shows a user profile with the user picture, name, email and level (ninja level in this specific example). The level can be incremented by clicking the "+" button.
 
 ## Getting Started
 
